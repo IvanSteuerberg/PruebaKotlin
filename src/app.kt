@@ -16,6 +16,8 @@ printSum(a,b)
     val s2 = "${s1.replace("is", "was")}, but now is $aa"
 println(maxOf(a,b))
 println(maxOf2(a,b))
+val empleado = Persona ("Juan","Perez",33)
+println(empleado.edad)
 }
 
 fun otrafuncion(){
